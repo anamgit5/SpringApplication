@@ -1,6 +1,7 @@
-package hr.fer.ilj.group1.SpringApplication;
+package hr.fer.ilj.group1;
 
 
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

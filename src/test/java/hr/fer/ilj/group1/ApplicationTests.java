@@ -1,4 +1,4 @@
-package hr.fer.ilj.group1.SpringApplication;
+package hr.fer.ilj.group1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
